@@ -1,0 +1,20 @@
+.cnsnt_info {
+	position:relative;
+	height:auto!important;
+	padding:10px;
+	-webkit-border-radius:10px;
+	-moz-border-radius:10px;
+	border-radius:10px;
+
+	background:#F2F2F2;   /* #ffebcf; */
+	-pie-lazy-init:true; /* enable if IE 8 */
+	-pie-poll:true;
+}
+
+.cnsnt_info .pic {
+	border:3px solid #fff;
+}
+
+.cnsnt_info .summary {
+	border-bottom:1px solid ; /* #eec792 */
+}

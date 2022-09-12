@@ -1,0 +1,43 @@
+﻿.table {
+	width: 100%;
+	text-align:center;
+}
+.thead_tr {
+	background-color:#023183; 
+	text-align:center; 
+	color:white; 
+	height:35px;
+}
+
+.table_tr {
+	text-align:center;
+}
+
+.news_distant { 
+	clear:both;
+	text-align:center;
+}
+
+.news_distant_rows {
+	clear:both;
+	height:160px;
+	padding:5px 0px;
+	border-bottom: 1px solid black;
+}
+
+.news_distant_divs {
+	float:left; padding: 0px 15px;
+}
+
+.footer_blocks {
+	padding:10px 10px; 
+	width:22%; 
+	font-size:14px; 
+	text-align: left;
+	float:left; 
+	outline:0px solid red;
+}
+
+.footer_block {
+	padding:10px 10px; 
+}

@@ -1,0 +1,35 @@
+<style>
+.TableHtml table {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	border-collapse: collapse;
+	width: 100%;
+}
+
+.TableHtml  td {
+	text-align: center;
+	padding: 8px;
+}
+
+.TableHtml th {
+	padding-top: 12px;
+	padding-bottom: 12px;
+	background-color: #023183;
+	color: white;
+	text-align:center;
+	height:35;
+}
+
+.TableHtml  td, .TableHtml th {
+	border: 1px solid #dedede;
+}
+
+.TableHtml tr:nth-child(even) {
+	background-color: #afafaf;
+}
+
+.TableHtml tr:nth-child(odd) {
+	background-color: #cfcfcf;
+}
+
+.TableHtml tr:hover {background-color: green; color: white;}
+</style>

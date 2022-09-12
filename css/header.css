@@ -1,0 +1,29 @@
+/*Таблица shapka и head_bot   table.shapka td{background-color:#D9E47C;
+*/
+table.shapka{margin-bottom:10px;background:#D9E47C; }
+table.shapka p.white{margin-right:12px; margin-top:9px}
+table.shapka p.white a{color:white}
+table.shapka p.white a:hover{color:#CCE8FF; text-decoration:none}
+table.shapka td{background-color:#D9E47C; color:white; font-size:70%; font-family:tahoma}
+table.shapka td table td.first{background-color:white; color:#D9E47C; font-size:75%; padding-right:7px; padding-left:12px; font-family:arial}
+table.shapka td table td.first a{color:#013572; text-decoration:none}
+table.shapka td table td.first a:hover{color:#013572; text-decoration:underline}
+table.shapka td table td.mid{background-color:#5977B3; font-size:75%; padding-right:7px; padding-left:6px; font-family:arial; background-image:url("backgr_s.gif"); background-repeat:repeat-x;}
+table.shapka td table td.mid a{color:white; text-decoration:none}
+table.shapka td table td.mid a:hover{text-decoration:underline}
+table.shapka td.bel{background-color:white}
+table.head_bot{margin-bottom:10px}
+table.head_bot td{font-size:70%; font-family:tahoma; padding:4px 5px 5px 10px}
+table.head_bot td.uupsbot{height:1px;background-color:#EBEFF4; background-image:url("10000000.gif");background-repeat:no-repeat;background-position:top right; padding:0px}
+table.head_bot td.bord_left{border-left:1px solid #EBEFF4}
+table.head_bot td.bord_right{border-right:1px solid #EBEFF4; padding-right:12px; font-size:65%}
+
+/*Таблица lasttab*/
+table.lasttab{margin-top:20px}
+table.lasttab td{background-color:#D9E47C; font-size:70%; color:#ffffff}
+table.lasttab a{color:white; text-decoration:underline}
+table.lasttab a:visited{color:white;text-decoration:underline}
+table.lasttab a:hover{color:#CCE8FF;text-decoration:none}
+table.lasttab td.lastgr{background-image:url("10000000.gif"); background-repeat:no-repeat; background-position:top right}
+table.lasttab tr.cent td{padding: 4px 21px 6px 20px}
+table.lasttab tr.cent td table td{padding: 0px 0px 0px 0px}

@@ -1,0 +1,8 @@
+ul.menu_15 {margin:0 1px 0 0; list-style-image:none; display:inline-block; float:center; font-family: 'Playfair Display', serif;}
+ul.menu_15 li {float:left; line-height:17px; margin:0 0 0 0;  border-left:#ffffff 1px solid; font-family: 'Playfair Display', serif;text-align:center}
+ul.menu_15 li a {font-size:19px;  color:#86BDF4;  display:block; padding:15px 28px 24px 28px}
+ul.menu_15 li a span { font-size:12px; padding-top:10px; text-align:center}
+ul.menu_15 li.home-page {display:inline-block; border:none !important}
+ul.menu_15 li a:hover , ul.menu_15 li.current { color:#f1ae6e; background-color:#1A3867}
+ul.menu_15 li.home-page a {padding:15px 22px 24px 23px !important}
+.red{ height:73px; width:100%; background:url(../images/01.png) repeat-x  }
